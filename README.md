@@ -1,18 +1,32 @@
 # 👋 Hi there! Welcome to my GitHub Profile!  
 ![Welcome Banner](https://your-image-link-here.com/banner-image)
 
+
 I'm **Lihansa Kavinthi** 🌟  
 🎓 A passionate **Data Science Enthusiast** and **Second-Year Undergraduate** at General Sir John Kotelawala Defence University.  
 💡 Co-Editor of the AI & Data Science Club | 📊 Exploring the world of data, one dataset at a time!
 
 ---
 
-## ✨ About Me:
-- 🔭 I’m currently working on **Data Analysis & Visualization Projects**.
-- 🌱 I’m learning **Machine Learning, SQL, and R Programming**.
-- 🤝 I love collaborating on **Open Source Data Science Projects**.
-- 💬 Ask me about **Data Science, AI, or Volunteering Initiatives**.
-- ✍️ Fun fact: Call me as LK.
+<div style="display: flex; align-items: flex-start; margin-top: 20px;">
+  <!-- About Me Section -->
+  <div style="flex: 1; margin-right: 20px;">
+    <h2>✨ About Me:</h2>
+    <ul>
+      <li>🛠️ I’m currently working on <strong>Data Analysis & Visualization Projects</strong>.</li>
+      <li>🌱 I’m learning <strong>Machine Learning, SQL, and R Programming</strong>.</li>
+      <li>🤝 I love collaborating on <strong>Open Source Data Science Projects</strong>.</li>
+      <li>💬 Ask me about <strong>Data Science, AI, or Volunteering Initiatives</strong>.</li>
+      <li>🍁 Fun fact: Call me as <strong>LK</strong>.</li>
+    </ul>
+  </div>
+
+  <!-- GIF Section -->
+  <div style="flex-shrink: 0;">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVqem54dWt1cTEwdWR0ZnUzbmwwM2I3bTl6azN0OHBmeDV6bHVobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="About Me GIF" style="width: 250px; height: auto; border-radius: 8px;" />
+  </div>
+</div>
+
 
 ---
 
