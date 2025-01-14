@@ -25,7 +25,7 @@ I'm **Lihansa Kavinthi** 🌟
 ---
 
 ## 🌟 Let’s Connect:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/lihansa-kavinthi-2932282b8/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lihansa-kavinthi-2932282b8/)
 
 
 ---
