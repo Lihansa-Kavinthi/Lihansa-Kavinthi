@@ -47,7 +47,15 @@ I'm **Lihansa Kavinthi** 🌟
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lihansa-Kavinthi&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lihansa-Kavinthi&layout=compact&theme=radical)
 
-![Languages Pie Chart](https://raw.githubusercontent.com/username/username/main/languages_pie_chart.svg)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=github)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
 
 ---
 
