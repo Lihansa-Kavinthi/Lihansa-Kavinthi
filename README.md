@@ -47,6 +47,8 @@ I'm **Lihansa Kavinthi** 🌟
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lihansa-Kavinthi&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lihansa-Kavinthi&layout=compact&theme=radical)
 
+![Languages Pie Chart](https://raw.githubusercontent.com/username/username/main/languages_pie_chart.svg)
+
 ---
 
 🌱 "The journey of a thousand lines of code begins with a single dataset." 🌱
